@@ -10,6 +10,7 @@
 **Pets:** Dog: `Dingo (Anatolian Shepherd)`
 
 ![Dingo the dog](https://lh4.googleusercontent.com/VrSU636dLR1iwqVKS0oztP0Hn0cAoTiFBfVcUDFB515SYLiupFz97VfLv-fmS0uBed0=w2400)
+
 This is him on a recent car trip!
 
 ---
