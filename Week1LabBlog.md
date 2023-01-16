@@ -23,17 +23,18 @@ This is how I went through the process of installing Visual Studio Code and remo
    ![user name](https://lh5.googleusercontent.com/KIzyXvWuug0r2GWxco5CbWYLZvfG2I-bVzHK3Nbl-yTi3F7A4i2P9ZMffisPdFHCSDk=w2400)
    **Below where it says 'Additional Accounts' there is a button labeled with what my assigned ETS username is. When I clicked on that button it brought me to another page to set up a password to specifically use when I remotely log in to the system. I set that and waited about 30 minutes for it to reset.**
    
-5. **To log in, I opened up the terminal in VS Studio by pressing Ctrl + `. Then I type in my ETS username followed by '@ieng6.uscd.edu': 
-```
-ssh cs15lwe23aaz@ieng6.ucsd.edu
-```
-**It prompted me for my password, and when I typed it in, I didn't see any characters appearing on the screen, so if I made a mistake typing I had to backspace more than probably necessary and retype it in.**
+5. **To log in, I opened up the terminal in VS Studio by pressing Ctrl + `. Then I type in my ETS username followed by '@ieng6.uscd.edu':** 
+   ```
+   ssh cs15lwe23aaz@ieng6.ucsd.edu
+   ```
+   **It prompted me for my password, and when I typed it in, I didn't see any characters appearing on the screen, so if I made a mistake typing I had to backspace more than probably necessary and retype it in.**
 
-**The screen read a welcome message saying:**
-```
-Hello cs15lwe23aaz, you are currently logged into ieng6-201.ucsd.edu
-
-You are using 0% CPU on this system
-```
-**It displays how many users are logged in to each server and then displayed a command prompt where I could try commands to see what results I get. Here is what I got:
-![results](https://lh5.googleusercontent.com/d2v7AtDRdCYhEK2Fin6Vx1zBR4v3X5x0yA__i2OS6DTZgDgxTUNGFXiUIg7kkmCRG5E=w2400)
+   **The screen read a welcome message saying:**
+   ```
+   Hello cs15lwe23aaz, you are currently logged into ieng6-201.ucsd.edu
+   
+   You are using 0% CPU on this system
+   ```
+   
+   **It displays how many users are logged in to each server and then displayed a command prompt where I could try commands to see what results I get. Here is what I got:**
+   ![results](https://lh5.googleusercontent.com/d2v7AtDRdCYhEK2Fin6Vx1zBR4v3X5x0yA__i2OS6DTZgDgxTUNGFXiUIg7kkmCRG5E=w2400)
